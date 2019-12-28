@@ -7,6 +7,9 @@ namespace GitPlacticeApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hollo sunday!");
+
+            var hoge = "test";
+            Console.WriteLine(hoge);
         }
     }
 }
