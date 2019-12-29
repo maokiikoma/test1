@@ -6,5 +6,6 @@ namespace GitPlacticeApp
 {
     class Sample4
     {
+        public string Item1 { get; set; }
     }
 }
